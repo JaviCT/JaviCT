@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Javier</h1>
-<h3 align="center">A passionate software developer based in Málaga with more than 4 years of professional experience building web applications and proficient in full-stack development.</h3>
+<h3 align="center">A passionate software developer based in Málaga with more than 6 years of professional experience building web applications and proficient in full-stack development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=javict&label=Profile%20views&color=0e75b6&style=flat" alt="javict" /> </p>
 
@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **react native**
 
-- 👨‍💻 All of my projects are available at [https://javiercalero.com](https://javiercalero.com)
+- 👨‍💻 All of my projects are available at [https://javiercalero.com](https://javicalero.dev)
 
 - 💬 Ask me about **Vue.js, react, elixir, python, react native...**
 
 - 📫 How to reach me **javicadetor@gmail.com**
 
-- 📄 Know about my experiences [https://javiercalero.com/about](https://javiercalero.com/about)
+- 📄 Know about my experiences [https://javiercalero.com/about](https://javicalero.dev/about)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
