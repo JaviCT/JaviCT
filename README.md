@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **react native**
 
-- 👨‍💻 All of my projects are available at [https://javiercalero.com](https://javicalero.dev)
+- 👨‍💻 All of my projects are available at [https://javicalero.dev](https://javicalero.dev)
 
 - 💬 Ask me about **Vue.js, react, elixir, python, react native...**
 
 - 📫 How to reach me **javicadetor@gmail.com**
 
-- 📄 Know about my experiences [https://javiercalero.com/about](https://javicalero.dev/about)
+- 📄 Know about my experiences [https://javicalero.dev/about](https://javicalero.dev/about)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
